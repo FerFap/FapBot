@@ -703,5 +703,5 @@ async def check_timout():
         await asyncio.sleep(10)
 
 
-TOKEN = ""
+TOKEN = "NzMxNTAzMjA1NjQ4Njk1MzE3.Xwm_cg.JxomJyN5gmPMdc03S2M0wzEBcaQ"
 client.run(TOKEN)
